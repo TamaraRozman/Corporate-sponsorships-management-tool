@@ -1,0 +1,5 @@
+tamara,VIoMrmY1F8K6ZmyobCzD4lYAbZT6VyV3KwLI7egDJZ0=,true
+user1,5sPaWyBmNNfz81htdH/9s2tcZ1dXs4DGpf5cVwxxQ0k=,false
+user2,G6PRbpiBlZ+MmpdihU9yxuYyHN1ENYoQpOk5AzEX6rk=,false
+user,10/w7o2juYBrGMh32/KbveULW9jk2tejpyUAD+uC6PE=,false
+tams,A6xnQhbz4Vx2HuGl4lXwZ5U2I8iziLRFnhP5eNfIRvQ=,false

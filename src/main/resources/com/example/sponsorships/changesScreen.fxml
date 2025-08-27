@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="650.0" prefWidth="950.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.sponsorships.controllers.ChangesController">
+    <children>
+        <fx:include source="menu.fxml" />
+      <TableView fx:id="changesTableView" layoutY="46.0" prefHeight="602.0" prefWidth="950.0">
+        <columns>
+            <TableColumn fx:id="dateTableColumn" minWidth="0.0" prefWidth="106.4000244140625" text="Timestamp" />
+          <TableColumn fx:id="changeTableColumn" prefWidth="291.99998170137405" text="Change description" />
+            <TableColumn fx:id="userTableColumn" prefWidth="114.4000244140625" text="User" />
+            <TableColumn fx:id="oldTableColumn" prefWidth="216.800048828125" text="Old value" />
+            <TableColumn fx:id="newTableColumn" minWidth="0.0" prefWidth="215.199951171875" text="New value" />
+        </columns>
+      </TableView>
+    </children>
+
+</AnchorPane>

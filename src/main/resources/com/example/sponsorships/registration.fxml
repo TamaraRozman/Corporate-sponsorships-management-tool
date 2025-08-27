@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="500.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.sponsorships.controllers.RegistrationController">
+   <children>
+      <Label layoutX="90.0" layoutY="92.0" text="Name:" />
+      <Label layoutX="155.0" layoutY="37.0" text="Sign up!">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+      <Label layoutX="258.0" layoutY="92.0" text="Last name:" />
+      <Label layoutX="173.0" layoutY="160.0" text="Username:" />
+      <Label layoutX="175.0" layoutY="226.0" text="Password:" />
+      <Label layoutX="151.0" layoutY="285.0" text="Confirm password:" />
+      <TextField fx:id="nameTextField" layoutX="33.0" layoutY="118.0" />
+      <TextField fx:id="lastNameTextField" layoutX="212.0" layoutY="118.0" />
+      <TextField fx:id="usernameTextField" layoutX="126.0" layoutY="187.0" />
+      <PasswordField fx:id="passwordField" layoutX="128.0" layoutY="251.0" />
+      <PasswordField fx:id="confirmPasswordField" layoutX="129.0" layoutY="309.0" />
+      <Button layoutX="156.0" layoutY="390.0" mnemonicParsing="false" onAction="#registerAndLogin" text="Create account" />
+      <Label fx:id="messageLabel" alignment="CENTER" contentDisplay="CENTER" layoutX="33.0" layoutY="346.0" prefHeight="44.0" prefWidth="342.0" />
+      <Label layoutX="86.0" layoutY="447.0" text="You already have an account?" />
+      <Button layoutX="260.0" layoutY="443.0" mnemonicParsing="false" onAction="#goToLogin" text="Sign in" />
+   </children>
+</AnchorPane>

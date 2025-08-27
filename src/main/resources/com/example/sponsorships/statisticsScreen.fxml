@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.chart.BarChart?>
+<?import javafx.scene.chart.CategoryAxis?>
+<?import javafx.scene.chart.NumberAxis?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane minHeight="-Infinity" prefHeight="650.0" prefWidth="950.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.sponsorships.controllers.StatisticsScreenController">
+   <children>
+        <fx:include source="menu.fxml" />
+      <BarChart fx:id="barChart" layoutX="51.0" layoutY="174.0" prefHeight="417.0" prefWidth="370.0">
+        <xAxis>
+          <CategoryAxis side="BOTTOM" fx:id="xAxis" />
+        </xAxis>
+        <yAxis>
+          <NumberAxis fx:id="yAxis" side="LEFT" />
+        </yAxis>
+      </BarChart>
+      <Label layoutX="84.0" layoutY="134.0" text="The best sponsors">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="553.0" layoutY="134.0" text="Most extensions by department">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+      </Label>
+      <BarChart fx:id="extensionChart" layoutX="528.0" layoutY="174.0" minHeight="-Infinity" prefHeight="418.0" prefWidth="370.0">
+         <xAxis>
+            <CategoryAxis fx:id="extensionXAxis" side="BOTTOM" />
+         </xAxis>
+         <yAxis>
+            <NumberAxis fx:id="extensionYAxis" side="LEFT" />
+         </yAxis>
+      </BarChart>
+   </children>
+</AnchorPane>

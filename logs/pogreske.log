@@ -1,0 +1,383 @@
+2025-01-31 12:13:37,940 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija pokrenuta.
+2025-01-31 13:43:19,181 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija pokrenuta.
+2025-01-31 16:49:24,587 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-01-31 16:50:37,484 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-01-31 16:56:53,475 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-01-31 16:58:57,709 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-01-31 16:58:59,090 ERROR [JavaFX Application Thread] c.e.s.LoginScreenController [LoginScreenController.java:line] Main stage is null!
+2025-01-31 16:59:03,348 ERROR [JavaFX Application Thread] c.e.s.LoginScreenController [LoginScreenController.java:line] Main stage is null!
+2025-01-31 16:59:07,119 ERROR [JavaFX Application Thread] c.e.s.LoginScreenController [LoginScreenController.java:line] Main stage is null!
+2025-01-31 16:59:08,906 ERROR [JavaFX Application Thread] c.e.s.LoginScreenController [LoginScreenController.java:line] Main stage is null!
+2025-01-31 17:05:19,077 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-01 11:51:11,121 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-02 10:01:33,232 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-02 10:01:36,026 ERROR [JavaFX Application Thread] c.e.s.u.DatabaseUtils [DatabaseUtils.java:line] Connection is broken: "java.net.SocketException: An established connection was aborted by the software in your host machine: localhost" [90067-224]
+2025-02-02 16:51:13,727 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-02 21:17:13,061 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-02 21:18:42,024 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-03 11:51:59,043 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-03 11:56:24,770 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-03 13:47:16,723 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-03 14:04:15,236 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-03 14:07:21,956 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-03 14:07:29,703 ERROR [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Pogreška pri deserijalizaciji promjena.
+2025-02-03 14:07:29,704 INFO [JavaFX Application Thread] c.e.s.ChangesController [ChangesController.java:line] Changes loaded successfully.
+2025-02-08 00:32:30,296 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-08 00:32:40,365 ERROR [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Pogreška pri deserijalizaciji promjena.
+2025-02-08 00:32:40,367 INFO [JavaFX Application Thread] c.e.s.ChangesController [ChangesController.java:line] Changes loaded successfully.
+2025-02-08 00:56:09,812 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-08 00:56:38,055 ERROR [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Pogreška pri deserijalizaciji promjena.
+2025-02-08 00:56:38,104 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-02-08 00:56:43,683 INFO [JavaFX Application Thread] c.e.s.ChangesController [ChangesController.java:line] Changes loaded successfully.
+2025-02-08 01:01:47,075 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-08 01:02:05,991 INFO [JavaFX Application Thread] c.e.s.ChangesController [ChangesController.java:line] Changes loaded successfully.
+2025-02-08 10:03:33,258 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-08 10:03:42,618 INFO [JavaFX Application Thread] c.e.s.ChangesController [ChangesController.java:line] Changes loaded successfully.
+2025-02-10 11:36:24,778 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-10 11:38:02,931 INFO [JavaFX Application Thread] c.e.s.ChangesController [ChangesController.java:line] Changes loaded successfully.
+2025-02-10 19:07:43,621 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-10 19:09:23,792 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-10 19:10:54,747 ERROR [JavaFX Application Thread] c.e.s.u.DatabaseUtils [DatabaseUtils.java:line] Error adding sponsor: Database may be already in use: "C:/Users/tamci/sponsorships.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-224]
+2025-02-10 19:12:01,992 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-10 19:12:35,721 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-10 19:13:31,838 ERROR [JavaFX Application Thread] c.e.s.u.DatabaseUtils [DatabaseUtils.java:line] Error adding sponsor: Table "ADDRESS" not found; SQL statement:
+INSERT INTO Address (city, street_name, house_number) VALUES (?, ?, ?) [42102-224]
+2025-02-10 19:14:31,408 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-10 19:15:27,162 ERROR [JavaFX Application Thread] c.e.s.u.DatabaseUtils [DatabaseUtils.java:line] Error adding sponsor: Column "IDADRESA" not found; SQL statement:
+INSERT INTO Persons (first_name, last_name, date_of_birth, idAdresa) VALUES (?, ?, ?, ?) [42122-224]
+2025-02-10 19:17:32,559 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-10 19:18:33,448 ERROR [JavaFX Application Thread] c.e.s.u.DatabaseUtils [DatabaseUtils.java:line] Error adding sponsor: Database may be already in use: "C:/Users/tamci/sponsorships.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-224]
+2025-02-10 19:19:41,506 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-10 19:20:42,739 ERROR [JavaFX Application Thread] c.e.s.u.DatabaseUtils [DatabaseUtils.java:line] Error adding sponsor: Referential integrity constraint violation: "CONSTRAINT_C135: PUBLIC.SPONSORS FOREIGN KEY(CONTACT_PERSON_ID) REFERENCES PUBLIC.PERSONS(ID) (CAST(7 AS BIGINT))"; SQL statement:
+INSERT INTO Sponsors (name, email, address_id, contact_person_id) VALUES (?, ?, ?, ?) [23506-224]
+2025-02-10 19:31:06,275 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-10 19:32:26,628 ERROR [JavaFX Application Thread] c.e.s.u.DatabaseUtils [DatabaseUtils.java:line] Error adding sponsor: Database may be already in use: "C:/Users/tamci/sponsorships.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-224]
+2025-02-10 19:32:56,339 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-10 19:33:44,291 ERROR [JavaFX Application Thread] c.e.s.u.DatabaseUtils [DatabaseUtils.java:line] Error adding sponsor: Referential integrity constraint violation: "CONSTRAINT_C135: PUBLIC.SPONSORS FOREIGN KEY(CONTACT_PERSON_ID) REFERENCES PUBLIC.PERSONS(ID) (CAST(8 AS BIGINT))"; SQL statement:
+INSERT INTO Sponsors (name, email, address_id, contact_person_id) VALUES (?, ?, ?, ?) [23506-224]
+2025-02-10 19:37:16,887 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-10 19:38:17,904 ERROR [JavaFX Application Thread] c.e.s.u.DatabaseUtils [DatabaseUtils.java:line] Error adding sponsor: Database may be already in use: "C:/Users/tamci/sponsorships.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-224]
+2025-02-10 22:27:21,457 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-10 22:29:14,310 ERROR [JavaFX Application Thread] c.e.s.u.DatabaseUtils [DatabaseUtils.java:line] Error adding sponsor: Database may be already in use: "C:/Users/tamci/sponsorships.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-224]
+2025-02-10 22:33:35,748 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-10 22:51:29,708 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-10 23:43:28,611 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-10 23:43:37,218 ERROR [JavaFX Application Thread] c.e.s.MenuController [MenuController.java:line] 
+/C:/Users/tamci/Desktop/sponsorships/target/classes/com/example/sponsorships/sponsorsScreen.fxml
+
+2025-02-10 23:43:40,574 ERROR [JavaFX Application Thread] c.e.s.MenuController [MenuController.java:line] 
+/C:/Users/tamci/Desktop/sponsorships/target/classes/com/example/sponsorships/sponsorsScreen.fxml
+
+2025-02-10 23:54:49,353 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-10 23:54:56,704 ERROR [JavaFX Application Thread] c.e.s.MenuController [MenuController.java:line] 
+/C:/Users/tamci/Desktop/sponsorships/target/classes/com/example/sponsorships/sponsorsScreen.fxml
+
+2025-02-10 23:55:03,888 INFO [JavaFX Application Thread] c.e.s.ChangesController [ChangesController.java:line] Changes loaded successfully.
+2025-02-10 23:55:06,157 ERROR [JavaFX Application Thread] c.e.s.MenuController [MenuController.java:line] 
+/C:/Users/tamci/Desktop/sponsorships/target/classes/com/example/sponsorships/sponsorsScreen.fxml
+
+2025-02-11 00:00:00,359 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-11 00:03:34,544 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-11 10:21:40,459 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-11 10:21:53,896 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-02-11 10:23:20,859 INFO [JavaFX Application Thread] c.e.s.ChangesController [ChangesController.java:line] Changes loaded successfully.
+2025-02-14 16:42:23,827 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-15 23:20:16,365 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-15 23:20:24,638 ERROR [JavaFX Application Thread] c.e.s.u.DatabaseUtils [DatabaseUtils.java:line] Error loading programs: Connection is broken: "java.net.ConnectException: Connection refused: no further information: localhost" [90067-224]
+2025-02-15 23:20:26,062 ERROR [JavaFX Application Thread] c.e.s.u.DatabaseUtils [DatabaseUtils.java:line] Error loading sponsors: Connection is broken: "java.net.ConnectException: Connection refused: no further information: localhost" [90067-224]
+2025-02-15 23:20:54,949 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-15 23:21:02,310 ERROR [JavaFX Application Thread] c.e.s.u.DatabaseUtils [DatabaseUtils.java:line] Error loading programs: Column "street_name" not found [42122-224]
+2025-02-15 23:22:15,137 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-15 23:22:24,017 ERROR [JavaFX Application Thread] c.e.s.u.DatabaseUtils [DatabaseUtils.java:line] Error loading programs: Column "street_name" not found [42122-224]
+2025-02-15 23:41:38,268 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-15 23:41:44,795 ERROR [JavaFX Application Thread] c.e.s.u.DatabaseUtils [DatabaseUtils.java:line] Error loading programs: Table "SPONSORSJOIN" not found; SQL statement:
+SELECT SPONSORS.id, SPONSORS.name, SPONSORS.email, SPONSORS.address_id, SPONSORS.contact_person_id, ADDRESSES.street_name, ADDRESSES.house_number, ADDRESSES.city FROM SPONSORSJOIN ADDRESSES ON SPONSORS.address_id = ADDRESSES.id WHERE ADDRESSES.id = ?; [42102-224]
+2025-02-15 23:42:38,389 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-15 23:42:46,414 ERROR [JavaFX Application Thread] c.e.s.u.DatabaseUtils [DatabaseUtils.java:line] Error loading programs: Column "first_name" not found [42122-224]
+2025-02-15 23:44:28,877 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-15 23:44:35,392 ERROR [JavaFX Application Thread] c.e.s.u.DatabaseUtils [DatabaseUtils.java:line] Error loading programs: Ambiguous column name "ADDRESS_ID"; SQL statement:
+    SELECT s.id AS sponsor_id, s.name AS sponsor_name, s.email,
+           sa.id AS sponsor_address_id, sa.street_name AS sponsor_street, sa.house_number AS sponsor_house, sa.city AS sponsor_city,
+           p.id AS contact_person_id, p.first_name, p.last_name, p.date_of_birth,
+           pa.id AS contact_address_id, pa.street_name AS contact_street, pa.house_number AS contact_house, pa.city AS contact_city
+    FROM Sponsors s
+    JOIN Addresses sa ON s.address_id = sa.id
+    JOIN Persons p ON s.contact_person_id = p.id
+    JOIN Addresses pa ON p.address_id = pa.id
+    WHERE address_id = ?
+ [90059-224]
+2025-02-15 23:45:34,424 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-15 23:45:47,492 ERROR [JavaFX Application Thread] c.e.s.u.DatabaseUtils [DatabaseUtils.java:line] Error loading programs: Column "address_id" not found [42122-224]
+2025-02-15 23:46:26,427 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-15 23:46:33,607 ERROR [JavaFX Application Thread] c.e.s.u.DatabaseUtils [DatabaseUtils.java:line] Error loading programs: Column "SPONSOR_ID" not found; SQL statement:
+SELECT s.id AS sponsor_id, s.name AS sponsor_name, s.email,
+           sa.id AS sponsor_address_id, sa.street_name AS sponsor_street, sa.house_number AS sponsor_house, sa.city AS sponsor_city,
+           p.id AS contact_person_id, p.first_name, p.last_name, p.date_of_birth,
+           pa.id AS contact_address_id, pa.street_name AS contact_street, pa.house_number AS contact_house, pa.city AS contact_city
+    FROM Sponsors s
+    JOIN Addresses sa ON s.address_id = sa.id
+    JOIN Persons p ON s.contact_person_id = p.id
+    JOIN Addresses pa ON p.address_id = pa.id
+    WHERE sponsor_id= ? [42122-224]
+2025-02-15 23:47:24,189 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-15 23:47:30,230 ERROR [JavaFX Application Thread] c.e.s.u.DatabaseUtils [DatabaseUtils.java:line] Error loading programs: Column "address_id" not found [42122-224]
+2025-02-16 16:02:28,433 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-16 16:04:17,178 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-16 16:23:52,494 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-16 16:23:59,639 ERROR [JavaFX Application Thread] c.e.s.MenuController [MenuController.java:line] 
+/C:/Users/tamci/Desktop/sponsorships/target/classes/com/example/sponsorships/programsScreen.fxml
+
+2025-02-16 16:24:02,901 ERROR [JavaFX Application Thread] c.e.s.MenuController [MenuController.java:line] 
+/C:/Users/tamci/Desktop/sponsorships/target/classes/com/example/sponsorships/programsScreen.fxml
+
+2025-02-16 16:24:06,509 ERROR [JavaFX Application Thread] c.e.s.MenuController [MenuController.java:line] 
+/C:/Users/tamci/Desktop/sponsorships/target/classes/com/example/sponsorships/programsScreen.fxml
+
+2025-02-16 16:24:40,644 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-02-16 16:25:00,892 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-05-04 12:19:11,881 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-05-04 12:19:33,778 ERROR [JavaFX Application Thread] c.e.s.u.DatabaseUtils [DatabaseUtils.java:line] Error loading sponsors: Connection is broken: "java.net.ConnectException: Connection refused: no further information: localhost" [90067-224]
+2025-05-04 12:19:46,198 INFO [JavaFX Application Thread] c.e.s.ChangesController [ChangesController.java:line] Changes loaded successfully.
+2025-05-04 12:20:09,379 ERROR [JavaFX Application Thread] c.e.s.u.DatabaseUtils [DatabaseUtils.java:line] Error loading programs: Connection is broken: "java.net.ConnectException: Connection refused: no further information: localhost" [90067-224]
+2025-05-04 12:20:10,769 ERROR [JavaFX Application Thread] c.e.s.u.DatabaseUtils [DatabaseUtils.java:line] Error loading sponsors: Connection is broken: "java.net.ConnectException: Connection refused: no further information: localhost" [90067-224]
+2025-05-04 12:20:22,460 ERROR [JavaFX Application Thread] c.e.s.u.DatabaseUtils [DatabaseUtils.java:line] Error loading sponsors: Connection is broken: "java.net.ConnectException: Connection refused: no further information: localhost" [90067-224]
+2025-05-13 11:51:29,990 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-05-13 11:51:41,075 ERROR [JavaFX Application Thread] c.e.s.MenuController [MenuController.java:line] 
+/C:/Users/tamci/Desktop/sponsorships/target/classes/com/example/sponsorships/programsScreen.fxml
+
+2025-05-13 11:51:44,089 ERROR [JavaFX Application Thread] c.e.s.MenuController [MenuController.java:line] 
+/C:/Users/tamci/Desktop/sponsorships/target/classes/com/example/sponsorships/programsScreen.fxml
+
+2025-05-13 11:51:48,241 ERROR [JavaFX Application Thread] c.e.s.MenuController [MenuController.java:line] 
+/C:/Users/tamci/Desktop/sponsorships/target/classes/com/example/sponsorships/programsScreen.fxml
+
+2025-05-13 11:52:49,006 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-05-13 11:52:55,807 INFO [JavaFX Application Thread] c.e.s.ChangesController [ChangesController.java:line] Changes loaded successfully.
+2025-05-13 11:53:14,668 INFO [JavaFX Application Thread] c.e.s.ProgramsScreenController [ProgramsScreenController.java:line] Extension requested for 5 days.
+2025-05-13 13:20:25,764 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-05-13 13:20:47,950 INFO [JavaFX Application Thread] c.e.s.ProgramsScreenController [ProgramsScreenController.java:line] Extension requested for 7 days.
+2025-05-15 11:17:32,683 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-05-15 11:19:26,307 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-05-15 11:19:26,332 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-05-15 11:19:26,345 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-05-15 11:19:26,358 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-05-15 11:19:26,368 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-05-15 11:29:37,467 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-05-15 11:30:40,854 INFO [JavaFX Application Thread] c.e.s.ProgramsScreenController [ProgramsScreenController.java:line] Extension requested for 7 days.
+2025-05-15 11:31:57,393 INFO [JavaFX Application Thread] c.e.s.ProgramsScreenController [ProgramsScreenController.java:line] Extension requested for 24 days.
+2025-05-15 11:36:29,855 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-05-15 11:36:44,070 INFO [JavaFX Application Thread] c.e.s.ProgramsScreenController [ProgramsScreenController.java:line] Extension requested for 15 days.
+2025-05-15 11:40:31,559 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-05-15 11:40:43,815 INFO [JavaFX Application Thread] c.e.s.ProgramsScreenController [ProgramsScreenController.java:line] Extension requested for 12 days.
+2025-05-15 11:41:06,709 INFO [JavaFX Application Thread] c.e.s.ProgramsScreenController [ProgramsScreenController.java:line] Extension requested for 11 days.
+2025-05-15 11:50:14,476 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-05-15 11:50:27,320 INFO [JavaFX Application Thread] c.e.s.ProgramsScreenController [ProgramsScreenController.java:line] Extension requested for 12 days.
+2025-05-15 11:54:02,394 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-05-15 11:54:15,435 INFO [JavaFX Application Thread] c.e.s.ProgramsScreenController [ProgramsScreenController.java:line] Extension requested for 12 days.
+2025-05-15 12:37:42,375 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-05-15 12:37:52,861 INFO [JavaFX Application Thread] c.e.s.ProgramsScreenController [ProgramsScreenController.java:line] Extension requested for 11 days.
+2025-05-15 12:52:11,258 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-05-15 12:52:24,168 INFO [JavaFX Application Thread] c.e.s.ProgramsScreenController [ProgramsScreenController.java:line] Extension requested for 6 days.
+2025-05-17 23:09:20,196 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-05-17 23:09:44,001 INFO [JavaFX Application Thread] c.e.s.ProgramsScreenController [ProgramsScreenController.java:line] Extension requested for 16 days.
+2025-05-17 23:09:44,100 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-05-17 23:10:07,988 INFO [HTTP-Dispatcher] c.e.s.u.ExtensionHandler [ExtensionHandler.java:line] Received action: accept
+2025-05-17 23:10:07,989 INFO [HTTP-Dispatcher] c.e.s.u.ExtensionHandler [ExtensionHandler.java:line] Received token: f9a59145-d77f-437f-b858-8484676d9ec5
+2025-05-17 23:10:22,458 INFO [HTTP-Dispatcher] c.e.s.u.ExtensionHandler [ExtensionHandler.java:line] Received action: deny
+2025-05-17 23:10:22,458 INFO [HTTP-Dispatcher] c.e.s.u.ExtensionHandler [ExtensionHandler.java:line] Received token: f9a59145-d77f-437f-b858-8484676d9ec5
+2025-05-17 23:14:14,081 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-05-17 23:14:30,017 INFO [JavaFX Application Thread] c.e.s.ProgramsScreenController [ProgramsScreenController.java:line] Extension requested for 17 days.
+2025-05-17 23:14:30,106 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-05-17 23:14:42,476 INFO [HTTP-Dispatcher] c.e.s.u.ExtensionHandler [ExtensionHandler.java:line] Received action: accept
+2025-05-17 23:14:42,477 INFO [HTTP-Dispatcher] c.e.s.u.ExtensionHandler [ExtensionHandler.java:line] Received token: a49ff03a-367b-44a6-a511-1c758ff17146
+2025-05-17 23:14:54,654 INFO [JavaFX Application Thread] c.e.s.ProgramsScreenController [ProgramsScreenController.java:line] Extension requested for 24 days.
+2025-05-17 23:14:54,696 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-05-17 23:15:02,489 INFO [HTTP-Dispatcher] c.e.s.u.ExtensionHandler [ExtensionHandler.java:line] Received action: deny
+2025-05-17 23:15:02,490 INFO [HTTP-Dispatcher] c.e.s.u.ExtensionHandler [ExtensionHandler.java:line] Received token: e2e2e31f-31c4-4de6-bd58-1c97c28f7051
+2025-05-18 15:51:31,151 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-05-18 15:54:10,855 INFO [JavaFX Application Thread] c.e.s.ChangesController [ChangesController.java:line] Changes loaded successfully.
+2025-05-18 15:54:34,471 INFO [JavaFX Application Thread] c.e.s.ChangesController [ChangesController.java:line] Changes loaded successfully.
+2025-05-18 15:57:05,403 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-05-18 15:57:11,187 INFO [JavaFX Application Thread] c.e.s.ChangesController [ChangesController.java:line] Changes loaded successfully.
+2025-05-18 15:57:32,163 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-05-18 16:07:30,068 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-05-18 16:08:23,749 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-05-18 16:08:33,409 INFO [JavaFX Application Thread] c.e.s.ChangesController [ChangesController.java:line] Changes loaded successfully.
+2025-07-05 10:58:48,527 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-05 10:59:00,359 INFO [JavaFX Application Thread] c.e.s.ChangesController [ChangesController.java:line] Changes loaded successfully.
+2025-07-05 11:00:09,863 ERROR [JavaFX Application Thread] c.e.s.u.DatabaseUtils [DatabaseUtils.java:line] Error loading sponsors: Connection is broken: "java.net.ConnectException: Connection refused: no further information: localhost" [90067-224]
+2025-07-05 11:00:14,994 ERROR [JavaFX Application Thread] c.e.s.u.DatabaseUtils [DatabaseUtils.java:line] Error loading programs: Connection is broken: "java.net.ConnectException: Connection refused: no further information: localhost" [90067-224]
+2025-07-05 11:00:16,431 ERROR [JavaFX Application Thread] c.e.s.u.DatabaseUtils [DatabaseUtils.java:line] Error loading sponsors: Connection is broken: "java.net.ConnectException: Connection refused: no further information: localhost" [90067-224]
+2025-07-05 18:27:46,076 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-05 18:31:12,091 INFO [JavaFX Application Thread] c.e.s.ChangesController [ChangesController.java:line] Changes loaded successfully.
+2025-07-05 18:57:17,346 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-05 19:04:56,824 INFO [JavaFX Application Thread] c.e.s.ProgramsScreenController [ProgramsScreenController.java:line] Extension requested for 5 days.
+2025-07-05 19:04:56,953 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-05 19:05:21,754 INFO [HTTP-Dispatcher] c.e.s.u.ExtensionHandler [ExtensionHandler.java:line] Received action: accept
+2025-07-05 19:05:21,755 INFO [HTTP-Dispatcher] c.e.s.u.ExtensionHandler [ExtensionHandler.java:line] Received token: 006b8b35-acbb-4ab4-b930-c09aae2d9a40
+2025-07-05 19:05:21,792 INFO [HTTP-Dispatcher] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-05 21:01:41,465 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-05 21:03:10,253 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-05 21:03:28,241 ERROR [JavaFX Application Thread] c.e.s.u.DatabaseUtils [DatabaseUtils.java:line] Column "CITY" not found; SQL statement:
+UPDATE Sponsors SET name = ?, email = ?, city = ?, street = ?, house_number = ? WHERE id = ? [42122-224]
+2025-07-05 21:05:49,386 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-05 21:05:49,445 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-05 21:05:49,477 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-05 21:05:49,502 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-05 21:05:49,524 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-05 21:11:55,009 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-05 21:12:05,664 ERROR [JavaFX Application Thread] c.e.s.MenuController [MenuController.java:line] 
+/C:/Users/tamci/Desktop/sponsorships/target/classes/com/example/sponsorships/programsScreen.fxml
+
+2025-07-05 21:12:15,439 ERROR [JavaFX Application Thread] c.e.s.MenuController [MenuController.java:line] 
+/C:/Users/tamci/Desktop/sponsorships/target/classes/com/example/sponsorships/programsScreen.fxml
+
+2025-07-05 21:12:20,542 ERROR [JavaFX Application Thread] c.e.s.MenuController [MenuController.java:line] 
+/C:/Users/tamci/Desktop/sponsorships/target/classes/com/example/sponsorships/programsScreen.fxml
+
+2025-07-05 21:27:40,947 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-05 21:27:49,129 ERROR [JavaFX Application Thread] c.e.s.MenuController [MenuController.java:line] 
+/C:/Users/tamci/Desktop/sponsorships/target/classes/com/example/sponsorships/programsScreen.fxml
+
+2025-07-05 21:28:00,705 ERROR [JavaFX Application Thread] c.e.s.MenuController [MenuController.java:line] 
+/C:/Users/tamci/Desktop/sponsorships/target/classes/com/example/sponsorships/programsScreen.fxml
+
+2025-07-05 21:29:35,946 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-05 21:29:42,548 ERROR [JavaFX Application Thread] c.e.s.MenuController [MenuController.java:line] 
+/C:/Users/tamci/Desktop/sponsorships/target/classes/com/example/sponsorships/programsScreen.fxml
+
+2025-07-05 21:33:10,751 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-05 21:35:10,958 INFO [JavaFX Application Thread] c.e.s.ChangesController [ChangesController.java:line] Changes loaded successfully.
+2025-07-06 00:22:43,009 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-06 00:22:52,127 INFO [JavaFX Application Thread] c.e.s.ChangesController [ChangesController.java:line] Changes loaded successfully.
+2025-07-06 00:22:56,805 INFO [JavaFX Application Thread] c.e.s.ChangesController [ChangesController.java:line] Changes loaded successfully.
+2025-07-06 00:23:02,517 INFO [JavaFX Application Thread] c.e.s.ChangesController [ChangesController.java:line] Changes loaded successfully.
+2025-07-06 08:02:03,337 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-06 08:02:12,653 INFO [JavaFX Application Thread] c.e.s.ChangesController [ChangesController.java:line] Changes loaded successfully.
+2025-07-06 08:12:53,024 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-06 08:13:09,591 INFO [JavaFX Application Thread] c.e.s.ProgramsScreenController [ProgramsScreenController.java:line] Extension requested for 11 days.
+2025-07-06 08:13:09,939 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-06 08:13:31,249 INFO [HTTP-Dispatcher] c.e.s.u.ExtensionHandler [ExtensionHandler.java:line] Received action: accept
+2025-07-06 08:13:31,250 INFO [HTTP-Dispatcher] c.e.s.u.ExtensionHandler [ExtensionHandler.java:line] Received token: f4d3e0bd-4cba-443f-bccd-8842240b529c
+2025-07-06 08:13:31,342 INFO [HTTP-Dispatcher] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-06 08:13:31,582 INFO [HTTP-Dispatcher] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-06 12:20:20,138 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-06 12:23:18,909 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-06 12:25:10,469 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-06 12:33:15,478 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-06 12:34:38,998 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-06 12:59:00,445 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-06 13:00:19,440 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-06 13:02:59,915 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-06 13:03:12,868 INFO [JavaFX Application Thread] c.e.s.ProgramsScreenController [ProgramsScreenController.java:line] Extension requested for 10 days.
+2025-07-06 13:03:12,982 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-06 13:03:18,918 INFO [JavaFX Application Thread] c.e.s.ProgramsScreenController [ProgramsScreenController.java:line] Extension requested for 25 days.
+2025-07-06 13:03:18,961 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-06 13:03:22,803 INFO [JavaFX Application Thread] c.e.s.ProgramsScreenController [ProgramsScreenController.java:line] Extension requested for 6 days.
+2025-07-06 13:03:22,842 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-07 10:54:38,196 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-07 11:10:38,425 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-07 11:11:28,225 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-07 11:11:49,639 INFO [JavaFX Application Thread] c.e.s.ProgramsScreenController [ProgramsScreenController.java:line] Extension requested for 13 days.
+2025-07-07 11:15:49,470 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-07 11:16:23,785 INFO [JavaFX Application Thread] c.e.s.ProgramsScreenController [ProgramsScreenController.java:line] Extension requested for 13 days.
+2025-07-07 11:16:23,920 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-07 11:16:48,584 INFO [HTTP-Dispatcher] c.e.s.u.ExtensionHandler [ExtensionHandler.java:line] Received action: accept
+2025-07-07 11:16:48,585 INFO [HTTP-Dispatcher] c.e.s.u.ExtensionHandler [ExtensionHandler.java:line] Received token: 8d2eed08-4155-47a1-a9ba-4020dced1624
+2025-07-07 11:16:48,622 INFO [HTTP-Dispatcher] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-07 11:16:48,645 INFO [HTTP-Dispatcher] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-07 11:19:39,727 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-07 11:19:57,940 INFO [JavaFX Application Thread] c.e.s.ProgramsScreenController [ProgramsScreenController.java:line] Extension requested for 6 days.
+2025-07-07 11:19:58,031 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-07 11:20:14,977 INFO [HTTP-Dispatcher] c.e.s.u.ExtensionHandler [ExtensionHandler.java:line] Received action: accept
+2025-07-07 11:20:14,978 INFO [HTTP-Dispatcher] c.e.s.u.ExtensionHandler [ExtensionHandler.java:line] Received token: c8693c79-3382-4763-a2af-213ad6fdb457
+2025-07-07 11:20:15,016 INFO [HTTP-Dispatcher] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-07 11:20:15,045 INFO [HTTP-Dispatcher] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-07 11:22:37,157 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-07 11:22:59,275 INFO [JavaFX Application Thread] c.e.s.ProgramsScreenController [ProgramsScreenController.java:line] Extension requested for 10 days.
+2025-07-07 11:25:58,310 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-07 11:26:12,954 INFO [JavaFX Application Thread] c.e.s.ProgramsScreenController [ProgramsScreenController.java:line] Extension requested for 10 days.
+2025-07-07 11:26:13,042 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-07 11:26:27,094 INFO [HTTP-Dispatcher] c.e.s.u.ExtensionHandler [ExtensionHandler.java:line] Received action: accept
+2025-07-07 11:26:27,095 INFO [HTTP-Dispatcher] c.e.s.u.ExtensionHandler [ExtensionHandler.java:line] Received token: 6bf56fb0-e158-4d37-93f3-63929ac6fa3b
+2025-07-07 11:26:27,136 INFO [HTTP-Dispatcher] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-07 11:26:27,164 INFO [HTTP-Dispatcher] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-07 11:27:29,423 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-07 11:27:44,823 INFO [JavaFX Application Thread] c.e.s.ProgramsScreenController [ProgramsScreenController.java:line] Extension requested for 10 days.
+2025-07-07 11:27:44,909 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-07 11:27:59,569 INFO [HTTP-Dispatcher] c.e.s.u.ExtensionHandler [ExtensionHandler.java:line] Received action: accept
+2025-07-07 11:27:59,569 INFO [HTTP-Dispatcher] c.e.s.u.ExtensionHandler [ExtensionHandler.java:line] Received token: 2a78521d-7a1c-488a-adaa-ead1fd15e58c
+2025-07-07 11:27:59,606 INFO [HTTP-Dispatcher] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-07 11:27:59,633 INFO [HTTP-Dispatcher] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-07 11:34:40,373 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-07 11:38:12,132 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-07 11:44:45,899 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-07 11:52:24,993 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-07 12:11:46,923 INFO [JavaFX Application Thread] c.e.s.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-07 12:12:18,750 ERROR [JavaFX Application Thread] c.e.s.u.DatabaseUtils [DatabaseUtils.java:line] Column "CITY" not found; SQL statement:
+UPDATE Sponsors SET name = ?, email = ?, city = ?, street = ?, house_number = ? WHERE id = ? [42122-224]
+2025-07-07 12:12:18,823 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-07 12:12:36,807 INFO [JavaFX Application Thread] c.e.s.ChangesController [ChangesController.java:line] Changes loaded successfully.
+2025-07-07 14:00:37,025 INFO [JavaFX Application Thread] c.e.s.m.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-07 14:02:05,191 INFO [JavaFX Application Thread] c.e.s.m.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-07 14:02:33,487 INFO [JavaFX Application Thread] c.e.s.m.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-07 14:04:18,545 INFO [JavaFX Application Thread] c.e.s.m.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-07 14:07:39,364 INFO [JavaFX Application Thread] c.e.s.m.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-07 14:12:21,717 INFO [JavaFX Application Thread] c.e.s.m.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-07 14:13:53,573 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-07 14:13:53,615 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-07 14:13:53,632 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-07 14:13:53,650 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-07 14:13:53,663 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-07 14:14:01,180 ERROR [JavaFX Application Thread] c.e.s.u.DatabaseUtils [DatabaseUtils.java:line] Column "CITY" not found; SQL statement:
+UPDATE Sponsors SET name = ?, email = ?, city = ?, street = ?, house_number = ? WHERE id = ? [42122-224]
+2025-07-07 14:14:01,194 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-07 14:14:28,673 ERROR [JavaFX Application Thread] c.e.s.u.DatabaseUtils [DatabaseUtils.java:line] Column "CITY" not found; SQL statement:
+UPDATE Sponsors SET name = ?, email = ?, city = ?, street = ?, house_number = ? WHERE id = ? [42122-224]
+2025-07-07 14:14:28,687 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-07 14:14:41,045 ERROR [JavaFX Application Thread] c.e.s.u.DatabaseUtils [DatabaseUtils.java:line] Column "CITY" not found; SQL statement:
+UPDATE Sponsors SET name = ?, email = ?, city = ?, street = ?, house_number = ? WHERE id = ? [42122-224]
+2025-07-07 14:14:41,059 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-07 14:16:14,956 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-07 14:16:43,889 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-07 14:16:59,412 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-07 14:17:05,605 INFO [JavaFX Application Thread] c.e.s.c.ChangesController [ChangesController.java:line] Changes loaded successfully.
+2025-07-07 14:26:41,289 INFO [JavaFX Application Thread] c.e.s.m.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-07 14:27:01,454 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-07 14:27:10,895 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-07 14:27:48,745 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-07 14:28:13,255 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-07 14:45:01,461 INFO [JavaFX Application Thread] c.e.s.m.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-07 14:45:29,398 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-07 14:45:59,956 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-07 14:52:40,550 INFO [JavaFX Application Thread] c.e.s.m.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-07 14:53:01,491 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-07 14:56:38,878 INFO [JavaFX Application Thread] c.e.s.m.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-07 14:56:52,486 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-07 16:32:42,799 INFO [JavaFX Application Thread] c.e.s.m.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-07 16:33:19,880 ERROR [JavaFX Application Thread] c.e.s.c.ProgramsScreenController [ProgramsScreenController.java:line] Program s nazivom 'Proba za mail' već postoji.
+2025-07-07 16:46:52,819 INFO [JavaFX Application Thread] c.e.s.m.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-07 16:47:02,669 INFO [JavaFX Application Thread] c.e.s.e.DataExportUtil [DataExportUtil.java:line] Exportirano u CSV datoteku: files/programs.csv
+2025-07-07 16:54:07,614 INFO [JavaFX Application Thread] c.e.s.m.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-07 16:54:18,118 INFO [JavaFX Application Thread] c.e.s.e.DataExportUtil [DataExportUtil.java:line] Exportirano u CSV datoteku: files/programs.csv
+2025-07-07 16:54:21,906 INFO [JavaFX Application Thread] c.e.s.e.DataExportUtil [DataExportUtil.java:line] Exportirano u CSV datoteku: files/programs.csv
+2025-07-07 16:54:41,550 INFO [JavaFX Application Thread] c.e.s.e.DataExportUtil [DataExportUtil.java:line] Exportirano u CSV datoteku: files/programs.csv
+2025-07-07 16:54:43,826 INFO [JavaFX Application Thread] c.e.s.e.DataExportUtil [DataExportUtil.java:line] Exportirano u CSV datoteku: files/programs.csv
+2025-07-07 19:11:18,431 INFO [JavaFX Application Thread] c.e.s.m.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-07 19:14:18,516 INFO [JavaFX Application Thread] c.e.s.m.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-07 19:14:56,403 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-07 19:15:59,864 INFO [JavaFX Application Thread] c.e.s.m.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-07 19:16:45,623 INFO [JavaFX Application Thread] c.e.s.m.Main [Main.java:line] Aplikacija je pokrenuta.
+2025-07-07 19:16:57,658 ERROR [JavaFX Application Thread] c.e.s.c.RegistrationController [RegistrationController.java:line] Username 'tams' već postoji.
+2025-07-07 19:17:07,166 ERROR [JavaFX Application Thread] c.e.s.c.RegistrationController [RegistrationController.java:line] Username 'tams' već postoji.
+2025-07-07 19:17:42,584 INFO [JavaFX Application Thread] c.e.s.c.ChangesController [ChangesController.java:line] Changes loaded successfully.
+2025-07-07 19:19:21,210 INFO [JavaFX Application Thread] c.e.s.e.DataExportUtil [DataExportUtil.java:line] Exportirano u CSV datoteku: files/programs.csv
+2025-07-07 19:23:36,258 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-07 19:23:52,694 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-07 19:24:22,590 INFO [JavaFX Application Thread] c.e.s.c.ChangesController [ChangesController.java:line] Changes loaded successfully.
+2025-07-07 19:25:29,066 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-07 19:25:57,337 INFO [HTTP-Dispatcher] c.e.s.u.ExtensionHandler [ExtensionHandler.java:line] Received action: accept
+2025-07-07 19:25:57,338 INFO [HTTP-Dispatcher] c.e.s.u.ExtensionHandler [ExtensionHandler.java:line] Received token: fe80c8f1-a1b2-4327-9292-8b4f7e4f8190
+2025-07-07 19:25:57,380 INFO [HTTP-Dispatcher] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-07 19:25:57,416 INFO [HTTP-Dispatcher] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
+2025-07-07 19:26:32,274 INFO [JavaFX Application Thread] c.e.s.u.ChangeManager [ChangeManager.java:line] Spremljena promjena.
